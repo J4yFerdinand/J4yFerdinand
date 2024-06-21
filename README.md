@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **C/C++, Java, Nodejs**
 
-- 📫 How to reach me **fernandotech1498@gmail.com**
-
 - ⚡ Fun fact **I love to read drama novels**
 
 <p align="left">
